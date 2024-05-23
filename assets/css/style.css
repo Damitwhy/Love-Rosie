@@ -4,13 +4,18 @@ body {
     padding: 0;
 
 }
+
+.bg-color-name-title {
+    background-color: #676767;
+}
+
 header {
     margin: 0;
 
 }
 /* Logo image */
 .logo {
-    background: url(../images/pexels-photo-415829.webp);
+    background: url(../images/rosie.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -19,3 +24,4 @@ header {
     -mox-transition: all .5s ease-in-out;
     -webkit-transition: all .5s ease-in-out;
 }
+
