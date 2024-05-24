@@ -37,6 +37,8 @@ h1, h2, h3, h4 {
     text-transform: uppercase;
 } 
 
+/* -----------------------------------------general site wide */
+
 .general-sub {
     font-family: 'Exo', sans-serif;
     font-weight: 300;
@@ -209,4 +211,14 @@ footer {
 
 #footer-details {
     padding: 20px;
+}
+/* --------------------------------------three reasons */
+
+.three-reasons-icon {
+    font-size: 26px;
+    color: #e67e22;
+}
+
+.three-reasons-heading {
+    margin-bottom: 15px;
 }
