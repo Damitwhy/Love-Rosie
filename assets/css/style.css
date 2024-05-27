@@ -377,3 +377,16 @@ button[type="submit"] {
     }
 }
 
+/* -----------------------------------Experiment.html */
+
+.experi-1 {
+    padding: 10px;
+    margin-top: 0;
+    background-color: #9b59b6;
+    color: #fafafa;
+}
+
+.experi-2 {
+    background-color: #fafafa;
+    color: #9b59b6;
+}
