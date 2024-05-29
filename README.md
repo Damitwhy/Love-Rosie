@@ -1,60 +1,72 @@
+![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+
 # Love Rosie Project
 
-This project is a website built from Code Institutes course work, and is part one of my modules.
+This project is a website built from Code Institutes course work, and is one part of my modules.
 
-Update this readme as the build evolves...
+Love Rosie is a static personal resume website aimed at promoting Rosie's career in Full-Stack development.
 
-Type	Or	… to Get
-*Italic*	_Italic_	Italic
-**Bold**	__Bold__	Bold
-# Heading 1	Heading 1
-=========	
-Heading 1
-## Heading 2	Heading 2
----------	
-Heading 2
-[Link](http://a.com)	[Link][1]
-⋮
-[1]: http://b.org	Link
-![Image](http://url/a.png)	![Image][1]
-⋮
-[1]: http://url/b.jpg	Markdown
-> Blockquote	 	
-Blockquote
-* List
-* List
-* List
+Initially Rosie wanted a site to make her CV available to potential employers, with some additions of work history, social networking and UX orientated design the site now has information targeting her audience and shows off a little of her skills in Html and CSS at the same time.
 
-- List
-- List
-- List
-List
-List
-List
-1. One
-2. Two
-3. Three
+## Why build the site in the first place?
 
-1) One
-2) Two
-3) Three
+It was important to Rosie to create a resume website because it allows her to showcase her skills, work experience, and projects in a visually appealing and easily accessible way. 
 
-One
-Two
-Three
-Horizontal rule:
+Having a dedicated website also gives Rosie a professional online presence, making it easier for potential employers to find and evaluate her qualifications. Additionally, a resume website allows Rosie to demonstrate her proficiency in web development by creating a personalized and well-designed site.
 
----	Horizontal rule:
+## Skills
 
-***	Horizontal rule:
-`Inline code` with backticks	 	Inline code with backticks
-```
-# code block
-print '3 backticks or'
-print 'indent 4 spaces'
-```	····# code block
-····print '3 backticks or'
-····print 'indent 4 spaces'	
-# code block
-print '3 backticks or'
-print 'indent 4 spaces'
+- HTML
+- CSS
+- JavaScript
+- Python
+
+## Work Experience
+
+### Full-Stack Developer
+**Company Name** (City, Country)  
+*Dates*
+
+- Developed and maintained web applications using HTML, CSS, and JavaScript.
+- Collaborated with cross-functional teams to design and implement user-friendly interfaces.
+- Implemented responsive design principles to ensure optimal user experience across devices.
+
+### Front-End Developer
+**Company Name** (City, Country)  
+*Dates*
+
+- Created visually appealing and user-friendly websites using HTML, CSS, and JavaScript.
+- Collaborated with designers to translate wireframes and mockups into code.
+- Optimized website performance through efficient coding and image optimization techniques.
+
+## Education
+
+### Bachelor of Science in Computer Science
+**University Name** (City, Country)  
+*Dates*
+
+- Relevant coursework: Data Structures, Algorithms, Web Development, Database Systems.
+
+## Projects
+
+### Project Name
+*Description*
+
+- Technologies used: HTML, CSS, JavaScript, React.
+
+### Project Name
+*Description*
+
+- Technologies used: HTML, CSS, JavaScript, Node.js, Express.
+
+## Contact
+
+- Email: rosie@example.com
+- Phone: 123-456-7890
+- LinkedIn: [Rosie's LinkedIn Profile](https://www.linkedin.com/in/rosie)
+
+
+## Meta Links
+
+To improve Rosie's website, we could add meta links for description and keywords. Meta links provide additional information about the webpage to search engines and other web services.
+
